@@ -1,0 +1,84 @@
+body{
+	background:url(../image/cover.jpg) ;
+	background-repeat:no-repeat;
+	background-size: cover;
+	
+}
+.container{
+	width: 500px;
+	
+	margin: 10% auto;
+}
+.up{
+	width: 91.1%;
+	margin: 5px 10px;
+	padding: 10px;
+	border-radius: 18px;
+}
+
+	 
+.form {
+	background: url(../image/form.jpg);
+	background-size: cover;
+	border-radius: 10px;
+	height: 720px;
+
+
+}
+.sub{
+	margin: 0px auto;
+	display: block;
+	margin-bottom: 10px;
+	border-radius: 18px;
+	text-transform: uppercase;
+	margin-top: 10px;
+	color: white;
+	background-color: #1cdd1c;
+	padding: 9px;
+	font-weight: bold;
+	border: hidden;
+	transition: 0.5s ease-in-out;
+	-webkit-transition: 0.5s ease-in-out;
+	-o-transition: 0.5s ease-in-out;
+	-moz-transition: 0.5s ease-in-out;
+}
+h3 , .for   {
+	padding-left: 18px;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	
+}
+h3{
+	margin-bottom: 3px;
+}
+h2{
+	text-align: center;
+	font-family: 'Roboto' , serif;
+	font-weight: bold;
+	color: white;
+	font-size: 30px;
+	padding-top: 20px;
+}
+
+
+.w{
+	padding-left: 300px;
+	color: #906758;
+}
+
+a{
+	font-size: 17px;
+	color: #9bd3ff;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 5px;
+	
+}
+.sub:hover{
+	cursor: pointer ;
+	box-shadow: 2px 3px 9px white;
+	transition: 0.5s ease-in-out;
+	background: green;
+}
+a:hover {
+	 color: red;
+}

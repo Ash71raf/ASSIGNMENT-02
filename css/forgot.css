@@ -1,0 +1,68 @@
+body{
+	background:url(../image/cover.jpg) ;
+	background-repeat:no-repeat;
+	background-size: cover;
+	
+}
+.container{
+	width: 500px;
+	
+	margin: 10% auto;
+}
+.up{
+	width: 91.1%;
+	margin: 5px 10px;
+	padding: 10px;
+	border-radius: 18px;
+}
+
+.form {
+	background: url(../image/form.jpg);
+	background-size: cover;
+	border-radius: 10px;
+	height: 300px;
+
+
+}
+.sub{
+	margin: 0px 40px 0px 414px;
+	display: block;
+	margin-bottom: 10px;
+	border-radius: 18px;
+	text-transform: uppercase;
+	margin-top: 10px;
+	color: white;
+	background-color: #1cdd1c;
+	padding: 9px;
+	font-weight: bold;
+	border: hidden;
+	transition: 0.5s ease-in-out;
+	-webkit-transition: 0.5s ease-in-out;
+	-o-transition: 0.5s ease-in-out;
+	-moz-transition: 0.5s ease-in-out;
+}
+h4  {
+	padding-left: 18px;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	margin-bottom: 3px;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Roboto' , serif;
+	font-weight: bold;
+	color: white;
+	font-size: 30px;
+	padding-top: 17px;
+}
+
+
+
+.sub:hover{
+	cursor: pointer ;
+	box-shadow: 2px 3px 9px white;
+	transition: 0.5s ease-in-out;
+	background: green;
+}
+
